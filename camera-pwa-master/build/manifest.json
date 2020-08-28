@@ -1,0 +1,16 @@
+{
+    "name": "Camera App",
+    "short_name": "Camera App",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "/images/capture1.png",
+            "sizes": "397x336",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#123557",
+    "orientation": "landscape"
+}

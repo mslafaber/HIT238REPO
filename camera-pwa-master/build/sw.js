@@ -3,8 +3,8 @@ var CACHE_VERSION = 'v1';
 var CACHE_NAME = CACHE_TITLE + '-' + CACHE_VERSION;
 var urlsToCache = [
   '/',
-  '/styles/main.css',
-  '/script/main.js'
+  './style.css'
+  //'/script/main.js'
 ];
 
 self.addEventListener('install', function(event) {
